@@ -17,6 +17,6 @@ public class DockerImageApplication {
 	 public String getmessage()
 	 {
 		 
-		 return "Hi docker demo";
+		 return "Hi docker Gracy";
 	 }
 }
